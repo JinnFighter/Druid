@@ -1,0 +1,1 @@
+Druid is a PvP card battler made with Godot and written in C#
