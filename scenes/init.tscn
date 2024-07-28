@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://jmj3hcbymtne"]
+
+[ext_resource type="Script" path="res://scripts/init/InitGame.cs" id="1_os8tu"]
+
+[node name="Init" type="Node3D"]
+script = ExtResource("1_os8tu")
+ScenePath = "res://scenes/test_battle_table.tscn"
